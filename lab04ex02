@@ -1,0 +1,10 @@
+ex2
+1. ".data" is used to seperate variable declarations and assembly language instruction;
+".word" is used to allocate and initialize space of a variable
+2. check the bkpt box in execute tab; 
+3. step by 1
+4. 34; 9th
+5. n was stored in 0x00001001 before moved into $t3
+6. change the value stored in 0x10010000 value+10
+7. the register table on the right side of the window
+8. syscal function when $v0=1 print out integer value of $a0
